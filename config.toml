@@ -1,0 +1,31 @@
+baseurl = ""
+languageCode = "en-us"
+title = "Villa AutoSport"
+
+# [[menu.main]]
+#     name = "team"
+#     weight = -110
+#     identifier = "team"
+#     url = "/team"
+[[menu.main]]
+    name = "services"
+    identifier = "services"
+    weight = 1
+
+[[menu.main]]
+    name = "contact"
+    weight = 2
+    identifier = "contact"
+
+[params.footer]
+[[params.footer.social]]
+	icon = "fa-twitter"
+	link = "https://twitter.com/villaautosport"
+
+[[params.footer.social]]
+	icon = "fa-facebook"
+	link = "https://www.facebook.com/villaautosport"
+
+[[params.footer.social]]
+	icon = "fa-instagram"
+	link = "https://www.instagram.com/villaautosport"
