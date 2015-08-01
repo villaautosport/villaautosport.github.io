@@ -1,0 +1,80 @@
+[[addon]]
+title="Air freshener"
+price="$2"
+[[addon]]
+title="Leather conditioning"
+price="$50"
+[[addon]]
+title="Dress tires"
+price="$5 per wheel"
+[[addon]]
+title="Carnauba Wax"
+price="$50 and Up"
+[[addon]]
+title="Engine Detail"
+price="$45"
+[[addon]]
+title="Shampoo floor, floor mats, and Upholstery"
+price="$50"
+
+[[detail]]
+title = "Full"
+price = "$190-$255"
+time = "1hr - 1 1/2hr"
+includes = ["Hand wash vehicle",
+"express hand wax vehicle",
+"clean/polish rims",
+"clean/dress tires",
+"exterior dress plastic",
+"exterior/interior glass",
+"engine degrease/detail",
+"thorough vacuuming",
+"clean/detail vents/all surfaces",
+"shampoo/steam clean floors, floor mats, upholstery",
+"clean and condition leather",
+"dress interior plastics",
+"check and top up all tires"]
+
+[[detail]]
+title = "Interior"
+price = "$110-$140"
+time = "1hr - 1 1/2hr"
+includes = ["Thorough vacuuming",
+"clean/wipe all surfaces",
+"shampoo/steam clean floors, floor mats, and upholstery",
+"clean and condition all leather",
+"interior glass",
+"clean all door jambs",
+"check and top up all tires"]
+
+[[detail]]
+title = "Exterior"
+price = "$120-$185"
+time = "1hr - 1 1/2hr"
+includes = ["Hand wash vehicle",
+"express hand wax vehicle",
+"clean/polish rims",
+"clean/dress tires",
+"clean all door jambs",
+"interior/exterior glass",
+"vacuuming",
+"wipe down all plastics",
+"check and top up all tires"]
+
+[[plastidip]]
+title="Wheels"
+price= "$35 per wheel"
+[[plastidip]]
+title="Front Grille"
+price= "$50"
+[[plastidip]]
+title="Side view mirrors"
+price= "$20 per mirror"
+[[plastidip]]
+title="Side vents"
+price= "$15 each"
+[[plastidip]]
+title="Trim pieces"
+price= "$10 and up per piece"
+[[plastidip]]
+title="Other custom pieces available upon request"
