@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Villa AutoSport</title>
-    <link>/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on Villa AutoSport</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 27 Sep 2014 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>about</title>
-      <link>/about/</link>
+      <link>http://localhost:1313/about/</link>
       <pubDate>Sat, 27 Sep 2014 00:00:00 +0000</pubDate>
       
-      <guid>/about/</guid>
+      <guid>http://localhost:1313/about/</guid>
       <description>&lt;p&gt;Tired and fed up with subpar standards from other Mobile Detailing Services, we set out with the goal of creating something better quality and better worth your time. We aspire to meet and exceed the standards of our competitors, and earn a reputation for exemplary dedication to the job at hand. We understand that your time is a limited resource and we value it. We work around your hectic day to day life, finding a time place and coming straight to you. Whether you are trying to make a good impression of a first date, or simply need nice clean car to relieve some of your stress, we are here to make that happen.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title></title>
-      <link>/team/</link>
+      <link>http://localhost:1313/team/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/team/</guid>
+      <guid>http://localhost:1313/team/</guid>
       <description>
 
 &lt;h2 id=&#34;adrian-co-owner-ceo:0032aa43ab4d0a52da10e3dd5643e52b&#34;&gt;Adrian - Co-Owner/CEO&lt;/h2&gt;

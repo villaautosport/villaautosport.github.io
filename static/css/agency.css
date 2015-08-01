@@ -192,13 +192,12 @@ fieldset[disabled] .btn-xl.active {
 }
 .navbar-default .navbar-nav > .active > a {
   border-radius: 0;
-  color: #777777;
-  background-color: #1f96b2;
+  color: #1f96b2;
+  background-color: #f7f7f7;
 }
 .navbar-default .navbar-nav > .active > a:hover,
 .navbar-default .navbar-nav > .active > a:focus {
   color: #777777;
-  background-color: #177187;
 }
 @media (min-width: 768px) {
   .navbar-default {
