@@ -1,0 +1,26 @@
+{{ partial "header.html" . }}
+<section id="services">
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col-lg-12 text-center">
+                <h2 class="section-heading">Services</h2>
+            </div>
+        </div>
+
+          {{ range .Data.Pages.GroupBy "Type"}}
+          <div class="row text-center">
+            <h3 class="service-heading">{{ .Key }}</h3>
+            {{ range .Pages }}
+            <div class="col-md-4">
+                <h4 class="service-heading">{{ .Title }}</h4>
+                <h5 class="section-subheading text-muted">Price: {{ .Params.price }} / Time: {{ .Params.time }}</h5>
+                {{ .Content}}
+            </div>
+            {{end}}
+            </div>
+          {{ end }}
+
+    </div>
+</section>
+
+{{ partial "footer.html" . }}
